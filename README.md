@@ -25,13 +25,3 @@
 
 #### Release note:
 - 2023/02/27: Uploaded meal-recipe study project source code.
-
-
-#### Link:
-
-If you are interested in information about me or other activities, please access the link below.
-
-| **Page**        | **LINK**                                             |
-| --------------- | ---------------------------------------------------- |
-| **Github page** | [https://aidenkoog.github.io/]                       |
-| **LinkedIn**    | [https://www.linkedin.com/in/dongwan-koo-2041bb13b/] |
